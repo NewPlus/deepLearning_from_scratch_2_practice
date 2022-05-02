@@ -1,1 +1,2 @@
-# deepLearning_from_scratch_2_practice
+# 밑바닥부터 시작하는 딥러닝 2 예제 실습 - Process
+- ch02. 예제 공부 완료 (2022.05.02)
