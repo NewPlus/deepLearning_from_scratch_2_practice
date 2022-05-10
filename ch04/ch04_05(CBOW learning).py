@@ -1,5 +1,5 @@
 import sys
-from ch04.common import optimizer
+from common import optimizer
 sys.path.append('..')
 import numpy as np
 from common import config
